@@ -7,6 +7,8 @@
 
 [Labs Information](comp1238.md)
 
+## My Schedule
+
 * Monday
 * 9:00 - COMP1236 - Computing Logic
 * 11:00 - COMP1151 - IT Essentials
